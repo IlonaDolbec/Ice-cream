@@ -1,25 +1,25 @@
 # Ice-cream 🍦
 
-Bienvenue dans le projet **Ice-cream** ! Ce projet est un **_exercice d'entraînement_** visant à améliorer mes compétences en développement web avec **HTML** et **CSS**.
+Welcome to the **Ice-cream** project! This project is a **_training exercise_** to improve my web development skills with **HTML** and **CSS**.
 
 ## Description
 
-Le projet "Ice-cream" consistait à créer une interface utilisateur simple et esthétique, en présentant différentes glaces à l'utilisateur.
+The "Ice-cream" project consisted in creating a simple and aesthetic user interface, presenting different ice creams to the user.
 
-## Objectifs du projet
+## Project objectives
 
-- **Apprendre et pratiquer HTML** : Structurer des pages web.
-- **Maîtriser les bases de CSS** : Styliser les éléments HTML pour créer une interface visuellement attrayante.
-- **S'entraîner à structurer un projet** : Organiser les fichiers et le code pour un projet clair et maintenable.
+ - **Learn and practice HTML** : Structure web pages.
+ - **Master the basics of CSS** : Stylize HTML elements to create a visually appealing interface.
+ - **Practice structuring a project** : Organize files and code for a clear, maintainable project.
 
-## Technologies utilisées
+## Technologies used
 
-- **HTML (61.2%)** : Utilisé pour la structure de la page.
-- **CSS (38.8%)** : Utilisé pour la mise en forme et l'esthétique.
+ - **HTML (61.2%)** : Used for page structure.
+ - **CSS (38.8%)**: Used for formatting and aesthetics.
 
-## Comment utiliser ce projet
+## How to use this project
 
-1. Télécharger le dépot sur votre ordinateur.
-   -  **Download ZIP**
-   -  Extraire le dossier 
-3. Ouvrir le fichier **_index.html_** avec votre navigateur.
+ 1. Download the repository to your computer.
+    - **Download ZIP**
+    - Extract the folder
+ 2. Open the **_index.html_** file with your browser.
