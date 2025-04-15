@@ -11,6 +11,7 @@ The "Ice-cream" project consisted in creating a simple and aesthetic user interf
 Here's a screenshot of the project:
 
 ![Screenshot of the Ice-cream page](img/Screenshot_page.png)
+![2 Screenshot of the Ice-cream page](img/Screenshot_page2.png)
 
 ## Project objectives
 
