@@ -6,6 +6,12 @@ Welcome to the **Ice-cream** project! This project is a **_training exercise_** 
 
 The "Ice-cream" project consisted in creating a simple and aesthetic user interface, presenting different ice creams to the user.
 
+## Preview
+
+Here's a screenshot of the project:
+
+![Screenshot of the Ice-cream page](img/Screenshot_page.png)
+
 ## Project objectives
 
  - **Learn and practice HTML** : Structure web pages.
